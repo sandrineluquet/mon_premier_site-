@@ -1,0 +1,75 @@
+header{
+	background-image: url(image/paysage.jpeg);
+	font-family:arial;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 80px;
+	}
+body{
+	background-image: url(image/fondecranclair.jpeg);
+	background-size: 1920px 1200px;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	width: 80%;
+	margin: 10%;
+	color: black; 
+	}
+h2{
+	font-family: verdana;
+	text-align: center;
+	color:blue;
+	background-color: pink;
+	}
+nav{
+	display: flex;
+	justify-content: space-around;
+	width: 50%;
+	margin-left: 10%;
+	margin-right: 10%;
+	}
+nav a{
+	display:inline-block;
+	text-align: center;
+	color: black;
+	text-decoration:none;
+	padding: 10px 10px 10px 10px;
+	border: 3px solid;
+	border-color: black;
+	border-radius: 5px;
+	background-color:4DF3ED;
+	margin-left: 40%;
+	}	
+h3{
+	display: flex;
+	justify-content:center;
+
+	color:grey;
+  }
+ul{padding-left: 15%;
+	}
+.ecole{
+	color: blue;
+	text-decoration: underline;
+	}
+img{
+	width: 40%;
+	}
+
+#dauphins{
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	}
+#questions{
+	text-decoration: underline;
+}	
+.informatique{
+	color:red;
+	margin-top: 25%;
+	text-decoration: underline;
+}
+.internet{
+	color:purple;
+	font-family: verdana;
+	background-color:#8EFFA1; 
+}
